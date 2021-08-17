@@ -1,0 +1,184 @@
+select {
+  color: #E98830;
+}
+
+option {
+  color: black; 
+}
+
+a {
+  color: #E98830;
+}
+
+#cad_page {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  display: flex;
+
+  background: linear-gradient(0deg, rgba(255, 254, 254, 0.15), rgba(255, 254, 254, 0.15)), #E98830;
+}
+
+p {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
+}
+
+
+imput {
+  color:#E98830;
+  font-size: 16px;
+  font-family: 'roboto', sans-serif;
+  text-align: left;
+}
+
+::placeholder{
+    color:#E98830;
+    text-align: left;
+}
+
+form {
+    margin-top: 0px;
+    margin-left: 1240px;
+}
+
+h1{
+  color: #E98830;
+  position: absolute;
+  font-family: 'roboto', sans-serif;
+  text-align: right;
+  font-size: 30px;
+  margin-left: 170px;
+  margin-bottom: 50px;
+  margin-top: -60px;
+}
+
+h2 {
+    color: #FFFFFF;
+    position: absolute;
+    font-family:'roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 650px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+#cad_img{
+    position: absolute;
+    width: 568;
+    height: 393;
+    margin-top: 150px;
+    margin-bottom: 75px;
+    margin-left: 180px;
+}
+
+#logo_img{
+    margin-left: 1240px;
+    width: 113;
+    height: 113;
+    margin-top: 200;
+    margin-bottom: -70px;
+    display: flex;
+}
+
+#nome_cad{
+    position: absolute;
+    width: 350px;
+    margin-top: 20;
+    border-top: none;
+    border-bottom: 1px solid #000000;
+    border-left: none;
+    border-right: none;
+}
+#email_cad{
+  position: absolute;
+  width: 350px;
+  margin-top: 65;
+  border-top: none;
+  border-bottom: 1px solid #000000;
+  border-left: none;
+  border-right: none;
+}
+#telefone_cad{
+  position: absolute;
+  width: 350px;
+  margin-top: 105;
+  border-top: none;
+  border-bottom: 1px solid #000000;
+  border-left: none;
+  border-right: none;
+}
+#atv_cad{
+  position: absolute;
+  width: 352px;
+  margin-top: 145;
+  border-top: 2px solid #FFFFFF;
+  border-left: 2px solid #FFFFFF;
+  border-right: 2px solid #FFFFFF;
+  border-bottom: 1px solid #000000;
+  border-radius: 1px;
+}
+#atv_cad2{
+  position: absolute;
+  width: 351px;
+  margin-top: 185;
+  border-top: 2px solid #FFFFFF;
+  border-left: 2px solid #FFFFFF;
+  border-right: 2px solid #FFFFFF;
+  border-bottom: 1px solid #000000;
+  border-radius: 1px;
+}
+#atv_cad3{
+  position: absolute;
+  width: 352px;
+  margin-top: 225;
+  border-top: 2px solid #FFFFFF;
+  border-left: 2px solid #FFFFFF;
+  border-right: 2px solid #FFFFFF;
+  border-bottom: 1px solid #000000;
+  border-radius: 1px;
+}
+#senha_cad1{
+  position: absolute;
+  width: 350px;
+  margin-top: 265;
+  border-top: none;
+  border-bottom: 1px solid #000000;
+  border-left: none;
+  border-right: none;
+
+}
+#senha_cad2{
+  position: absolute;
+  width: 350px;
+  margin-top: 305;
+  border-top: none;
+  border-bottom: 1px solid #000000;
+  border-left: none;
+  border-right: none;
+
+}
+#cad{
+  position: absolute;
+  color:#FFFFFF;
+  background-color: #E98830;
+  width: 280px;
+  height: 30;
+  margin-top: 365;
+  margin-left: 35;
+  border-radius: 8px;
+  border-color: #E98830;
+}
+#link_cad{
+  margin-left: 60;
+  position: absolute;
+  width: 350px;
+  margin-top: 400;
+  border: none;
+}
